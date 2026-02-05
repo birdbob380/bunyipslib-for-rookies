@@ -11,9 +11,8 @@ and add your user to the `BunyipsFTC` GitHub team if not using the shared accoun
 ## First-time setup
 if you are a mbhs student you will have to do a couple more steps if you are not dont worry about these step. 
 
-Changeing the certificates for mbhs students.
+Setting up the certificates settings for mbhs students. Make your way into  `settings`.
 
-Make your way into  `settings`.
 
 For new laptops, you will need to `Clone Repository` of URL: `https://github.com/Murray-Bridge-Bunyips/BunyipsFTC`.
 
