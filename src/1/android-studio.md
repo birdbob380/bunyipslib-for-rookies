@@ -9,6 +9,12 @@ For MBHS Student Robotics Club members, you can follow [this guide in the shared
 and add your user to the `BunyipsFTC` GitHub team if not using the shared account.
 
 ## First-time setup
+if you are a mbhs student you will have to do a couple more steps if you are not dont worry about these step. 
+
+Changeing the certificates for mbhs students.
+
+Make your way into  `settings`.
+
 For new laptops, you will need to `Clone Repository` of URL: `https://github.com/Murray-Bridge-Bunyips/BunyipsFTC`.
 
 Once the project is loaded, you must change the branch you are on. To do this, click `stable` in the top left:
